@@ -15,7 +15,11 @@ namespace WcfServiceLibrary2
             value += 5;
             return string.Format("Valor ingresado +5: {0}", value);
         }
-
+        public string GetData2(int value)
+        {
+            value += 5;
+            return string.Format("Valor ingresado +5: {0}", value);
+        }
         public double PromedioPracticas(int p1, int p2, int p3, int p4)
         {
             double douPromedio = 0;
