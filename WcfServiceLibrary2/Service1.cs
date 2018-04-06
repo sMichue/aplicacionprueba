@@ -12,7 +12,8 @@ namespace WcfServiceLibrary2
     {
         public string GetData(int value)
         {
-            return string.Format("Valor ingresado: {0}", value);
+            value += 5;
+            return string.Format("Valor ingresado +5: {0}", value);
         }
 
         public double PromedioPracticas(int p1, int p2, int p3, int p4)
