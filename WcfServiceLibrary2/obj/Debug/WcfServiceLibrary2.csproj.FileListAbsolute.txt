@@ -1,0 +1,6 @@
+c:\users\alumno-ct\documents\visual studio 2015\Projects\WcfServiceLibrary2\WcfServiceLibrary2\bin\Debug\WcfServiceLibrary2.dll.config
+c:\users\alumno-ct\documents\visual studio 2015\Projects\WcfServiceLibrary2\WcfServiceLibrary2\bin\Debug\WcfServiceLibrary2.dll
+c:\users\alumno-ct\documents\visual studio 2015\Projects\WcfServiceLibrary2\WcfServiceLibrary2\bin\Debug\WcfServiceLibrary2.pdb
+c:\users\alumno-ct\documents\visual studio 2015\Projects\WcfServiceLibrary2\WcfServiceLibrary2\obj\Debug\WcfServiceLibrary2.csprojResolveAssemblyReference.cache
+c:\users\alumno-ct\documents\visual studio 2015\Projects\WcfServiceLibrary2\WcfServiceLibrary2\obj\Debug\WcfServiceLibrary2.dll
+c:\users\alumno-ct\documents\visual studio 2015\Projects\WcfServiceLibrary2\WcfServiceLibrary2\obj\Debug\WcfServiceLibrary2.pdb
